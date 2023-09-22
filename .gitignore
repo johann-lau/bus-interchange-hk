@@ -1,0 +1,17 @@
+# OS cache files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# VSC cache files
+.vscode/
+
+# Python cache files
+src/__pacache__/
+
+# Others
+src/kmb_all_routes.json
+interchanges/interchanges_lasalle.json
+interchanges/interchanges_johann.json
+interchanges/interchanges_william.json
+interchanges/*_CACHE.json

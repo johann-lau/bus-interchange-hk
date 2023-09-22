@@ -102,7 +102,13 @@ class App(tk.Tk):
         "stop_position": stop_position_sort_key, # Sort by letter part, then by integer part
         f"dest_{LANGUAGE}": lambda x: x.__dict__[f"dest_{LANGUAGE}"],
         "company": lambda x: x.company,
-        "eta": lambda x: x.eta[0] if x.eta else Eta(eta=datetime(9999, 12, 31, 23, 59, 59), company="JOINT", remark=""), # Sort by first ETA, if no ETA then just put at last
+
+        # Sort by first ETA, if no ETA then just put at last
+        "eta": lambda x: x.eta[0] if x.eta else Eta(
+            eta=datetime(9999, 12, 31, 23, 59, 59),
+            company="JOINT",
+            remark=""
+        ),
     }
 
 

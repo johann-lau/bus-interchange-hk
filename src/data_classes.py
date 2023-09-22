@@ -102,7 +102,17 @@ class RouteInfo:
     company: str
     eta: List[Eta]
 
-    def __init__(self, *, route: str, stop_sequence: int, stop_position: str, bound: Literal["I", "O"], dest_en: str, dest_tc: str, dest_sc: str, company: str, eta: List[Eta]) -> None:
+    def __init__(self, *,
+                 route: str,
+                 stop_sequence: int,
+                 stop_position: str,
+                 bound: Literal["I", "O"],
+                 dest_en: str,
+                 dest_tc: str,
+                 dest_sc: str,
+                 company: str,
+                 eta: List[Eta]
+                ) -> None:
         self.route = route
         self.stop_sequence = stop_sequence
         self.stop_position = stop_position
