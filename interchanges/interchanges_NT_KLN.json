@@ -1,0 +1,51 @@
+{
+    "TMHW_W": {
+        "name_en": "Tuen Mun Hwy Westbound → Tuen Mun",
+        "name_sc": "",
+        "name_tc": "屯門公路轉車站 西行（往屯門）",
+        "stops": {
+            "KMB": [
+                ["B1", "872110C8ADA14DA1"],
+                ["B2", "88229183EDC0B6E9"],
+                ["B3", "2B3A6C000BB085CD"],
+                ["B4", "A8B22902BD665766"],
+                ["B5", "47FF0EDCD6926932"],
+                ["B9", "DB516EC0B8DAF046"],
+                ["C2", "F80DF64ABE690251"],
+                ["C3", "70E8546DD7753FEF"],
+                ["C5", "C1590716F6FABC50"]
+            ],
+
+            "CTB": [
+                ["B8", "003359"],
+                ["C4", "003364"]
+            ]
+        }
+    },
+
+    "TMHW_E": {
+        "name_en": "Tuen Mun Hwy Eastbound → KLN/HKI/Tsuen Wan/Sha Tin",
+        "name_sc": "",
+        "name_tc": "屯門公路轉車站 東行（往九龍/港島/荃灣/沙田）",
+        "stops": {
+            "KMB": [
+                ["A1", "1D5D89F395EA4948"],
+                ["A2", "6437BDE588337654"],
+                ["A3", "21FC719DAF5F9D28"],
+                ["A4", "ACB5FEA2BF9FC5AD"],
+                ["A5", "CA6AB8446B694566"],
+                ["A8", "18C9D0216996D75A"],
+                ["A9", "212BFF5737D0116C"],
+                ["A10", "846872B8B3E76E7D"],
+                ["A11", "0CF05B00D82FECB2"],
+                ["A12", "620557B9486BE4BF"],
+                ["A14", "64FC3B939BC09903"]
+            ],
+
+            "CTB": [
+                ["A7", "003358"],
+                ["A13", "003363"]
+            ]
+        }
+    }
+}

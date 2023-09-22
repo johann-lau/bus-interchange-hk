@@ -1,0 +1,228 @@
+{
+    "LSPS": [
+        {
+            "route": "7B",
+            "stop_sequence": 17,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "LOK FU",
+            "dest_tc": "樂富",
+            "dest_sc": "乐富",
+            "company": "KMB"
+        },
+        {
+            "route": "113",
+            "stop_sequence": 26,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "CHOI HUNG",
+            "dest_tc": "彩虹",
+            "dest_sc": "彩虹",
+            "company": "JOINT"
+        },
+        {
+            "route": "1",
+            "stop_sequence": 14,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "CHUK YUEN ESTATE",
+            "dest_tc": "竹園邨",
+            "dest_sc": "竹园邨",
+            "company": "KMB"
+        },
+        {
+            "route": "12A",
+            "stop_sequence": 12,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "WHAMPOA GARDEN",
+            "dest_tc": "黃埔花園",
+            "dest_sc": "黄埔花园",
+            "company": "KMB"
+        },
+        {
+            "route": "22",
+            "stop_sequence": 7,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "Kai Tak Cruise Terminal",
+            "dest_tc": "啟德郵輪碼頭",
+            "dest_sc": "启德邮轮码头",
+            "company": "CTB"
+        }
+    ],
+    "BEV": [
+        {
+            "route": "42",
+            "stop_sequence": 34,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "SHUN LEE",
+            "dest_tc": "順利",
+            "dest_sc": "顺利",
+            "company": "KMB"
+        },
+        {
+            "route": "98E",
+            "stop_sequence": 11,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "HANG HAU (NORTH) (TSEUNG KWAN O HOSPITAL)",
+            "dest_tc": "坑口(北)(將軍澳醫院)",
+            "dest_sc": "坑口(北)(将军澳医院)",
+            "company": "KMB"
+        },
+        {
+            "route": "22",
+            "stop_sequence": 8,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "Kai Tak Cruise Terminal",
+            "dest_tc": "啟德郵輪碼頭",
+            "dest_sc": "启德邮轮码头",
+            "company": "CTB"
+        },
+        {
+            "route": "6P",
+            "stop_sequence": 13,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "LEI YUE MUN ESTATE",
+            "dest_tc": "鯉魚門邨",
+            "dest_sc": "鲤鱼门邨",
+            "company": "KMB"
+        },
+        {
+            "route": "1A",
+            "stop_sequence": 14,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "SAU MAU PING (CENTRAL)",
+            "dest_tc": "中秀茂坪",
+            "dest_sc": "中秀茂坪",
+            "company": "KMB"
+        },
+        {
+            "route": "6D",
+            "stop_sequence": 16,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "NGAU TAU KOK",
+            "dest_tc": "牛頭角",
+            "dest_sc": "牛头角",
+            "company": "KMB"
+        },
+        {
+            "route": "20A",
+            "stop_sequence": 19,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "Kai Tak Cruise Terminal (via: Mong Kok)",
+            "dest_tc": "啟德郵輪碼頭 (經:旺角)",
+            "dest_sc": "启德邮轮码头 (经:旺角)",
+            "company": "CTB"
+        }
+    ],
+    "LSR": [
+        {
+            "route": "113",
+            "stop_sequence": 12,
+            "stop_position": "N/A",
+            "bound": "I",
+            "dest_en": "KENNEDY TOWN (BELCHER BAY)",
+            "dest_tc": "堅尼地城(卑路乍灣)",
+            "dest_sc": "坚尼地城(卑路乍湾)",
+            "company": "JOINT"
+        },
+        {
+            "route": "27",
+            "stop_sequence": 12,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "MONG KOK (CIRCULAR)",
+            "dest_tc": "旺角(循環線)",
+            "dest_sc": "旺角(循环线)",
+            "company": "KMB"
+        },
+        {
+            "route": "95",
+            "stop_sequence": 23,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "KOWLOON STATION",
+            "dest_tc": "九龍站",
+            "dest_sc": "九龙站",
+            "company": "KMB"
+        },
+        {
+            "route": "N216",
+            "stop_sequence": 29,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "HUNG HOM STATION",
+            "dest_tc": "紅磡站",
+            "dest_sc": "红磡站",
+            "company": "KMB"
+        },
+        {
+            "route": "213D",
+            "stop_sequence": 16,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "MONG KOK (CIRCULAR)",
+            "dest_tc": "旺角(循環線)",
+            "dest_sc": "旺角(循环线)",
+            "company": "KMB"
+        },
+        {
+            "route": "1",
+            "stop_sequence": 11,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "STAR FERRY",
+            "dest_tc": "尖沙咀碼頭",
+            "dest_sc": "尖沙咀码头",
+            "company": "KMB"
+        },
+        {
+            "route": "1A",
+            "stop_sequence": 20,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "STAR FERRY",
+            "dest_tc": "尖沙咀碼頭",
+            "dest_sc": "尖沙咀码头",
+            "company": "KMB"
+        },
+        {
+            "route": "24",
+            "stop_sequence": 12,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "MONG KOK (CIRCULAR)",
+            "dest_tc": "旺角(循環線)",
+            "dest_sc": "旺角(循环线)",
+            "company": "KMB"
+        },
+        {
+            "route": "22",
+            "stop_sequence": 15,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "Kowloon Tong (Festival Walk)",
+            "dest_tc": "九龍塘 (又一城)",
+            "dest_sc": "九龙塘 (又一城)",
+            "company": "CTB"
+        },
+        {
+            "route": "20A",
+            "stop_sequence": 15,
+            "stop_position": "N/A",
+            "bound": "O",
+            "dest_en": "High Speed Rail West Kowloon Station (via: Mong Kok)",
+            "dest_tc": "高鐵西九龍站 (經:旺角)",
+            "dest_sc": "高铁西九龙站 (经:旺角)",
+            "company": "CTB"
+        }
+    ]
+}

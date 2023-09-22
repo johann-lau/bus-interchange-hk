@@ -1,0 +1,20 @@
+{
+    "MY_FIRST_INTERCHANGE_ID": {
+        "name_en": "My first interchange",
+        "name_sc": "我的转车站",
+        "name_tc": "我的轉車站",
+        "stops": {
+            "KMB": [
+                ["Stop 1's stop position", "Stop 1's stop ID retrieved from the KMB API, e.g. 1234567890ABCDEF"],
+                ["Stop 2's stop position", "Stop 2's stop ID retrieved from the KMB API, e.g. 234567890ABCDEF1"],
+                ["Stop 3's stop position", "Stop 3's stop ID retrieved from the KMB API, e.g. 34567890ABCDEF12"],
+                ["Stop 4's stop position", "Stop 4's stop ID retrieved from the KMB API, e.g. 4567890ABCDEF123"]
+            ],
+            
+            "CTB": [
+                ["Stop 1's stop position", "Stop 1's stop ID retrieved from the CTB API, e.g. 012345"],
+                ["Stop 2's stop position", "Stop 2's stop ID retrieved from the CTB API, e.g. 123456"]
+            ]
+        }
+    }
+}

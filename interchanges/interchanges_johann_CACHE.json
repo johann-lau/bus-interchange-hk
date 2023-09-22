@@ -1,0 +1,194 @@
+{
+    "HUNG_HOM_SOUTH_ROAD_W": [
+        {
+            "route": "115",
+            "stop_sequence": 11,
+            "stop_position": "East",
+            "bound": "I",
+            "dest_en": "CENTRAL (MACAU FERRY)",
+            "dest_tc": "中環(港澳碼頭)",
+            "dest_sc": "中环(港澳码头)",
+            "company": "JOINT"
+        },
+        {
+            "route": "115P",
+            "stop_sequence": 4,
+            "stop_position": "East",
+            "bound": "O",
+            "dest_en": "CENTRAL (MACAU FERRY)",
+            "dest_tc": "中環(港澳碼頭)",
+            "dest_sc": "中环(港澳码头)",
+            "company": "JOINT"
+        },
+        {
+            "route": "269B",
+            "stop_sequence": 2,
+            "stop_position": "East",
+            "bound": "I",
+            "dest_en": "TIN SHUI WAI TOWN CENTRE",
+            "dest_tc": "天水圍市中心",
+            "dest_sc": "天水围市中心",
+            "company": "KMB"
+        },
+        {
+            "route": "30X",
+            "stop_sequence": 3,
+            "stop_position": "East",
+            "bound": "I",
+            "dest_en": "TSUEN WAN (ALLWAY GARDENS)",
+            "dest_tc": "荃灣(荃威花園)",
+            "dest_sc": "荃湾(荃威花园)",
+            "company": "KMB"
+        },
+        {
+            "route": "12P",
+            "stop_sequence": 18,
+            "stop_position": "East",
+            "bound": "O",
+            "dest_en": "Hung Hom Station",
+            "dest_tc": "紅磡站",
+            "dest_sc": "红磡站",
+            "company": "KMB"
+        },
+        {
+            "route": "8A",
+            "stop_sequence": 3,
+            "stop_position": "East",
+            "bound": "O",
+            "dest_en": "TSIM SHA TSUI (CIRCULAR)",
+            "dest_tc": "尖沙咀(循環線)",
+            "dest_sc": "尖沙咀(循环线)",
+            "company": "KMB"
+        },
+        {
+            "route": "268B",
+            "stop_sequence": 2,
+            "stop_position": "East",
+            "bound": "I",
+            "dest_en": "LONG PING STATION",
+            "dest_tc": "朗屏站",
+            "dest_sc": "朗屏站",
+            "company": "KMB"
+        },
+        {
+            "route": "7B",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "O",
+            "dest_en": "LOK FU",
+            "dest_tc": "樂富",
+            "dest_sc": "乐富",
+            "company": "KMB"
+        },
+        {
+            "route": "3B",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "TSZ WAN SHAN (CENTRAL)",
+            "dest_tc": "慈雲山(中)",
+            "dest_sc": "慈云山(中)",
+            "company": "KMB"
+        },
+        {
+            "route": "15",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "PING TIN",
+            "dest_tc": "平田",
+            "dest_sc": "平田",
+            "company": "KMB"
+        },
+        {
+            "route": "12A",
+            "stop_sequence": 3,
+            "stop_position": "West",
+            "bound": "O",
+            "dest_en": "CHEUNG SHA WAN (HOI TAT ESTATE)",
+            "dest_tc": "長沙灣(海達邨)",
+            "dest_sc": "长沙湾(海达邨)",
+            "company": "KMB"
+        },
+        {
+            "route": "107P",
+            "stop_sequence": 3,
+            "stop_position": "West",
+            "bound": "O",
+            "dest_en": "CYBERPORT",
+            "dest_tc": "數碼港",
+            "dest_sc": "数码港",
+            "company": "JOINT"
+        },
+        {
+            "route": "85X",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "MA ON SHAN TOWN CENTRE",
+            "dest_tc": "馬鞍山市中心",
+            "dest_sc": "马鞍山市中心",
+            "company": "KMB"
+        },
+        {
+            "route": "275X",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "TAI PO (FU SHIN)",
+            "dest_tc": "大埔(富善)",
+            "dest_sc": "大埔(富善)",
+            "company": "KMB"
+        },
+        {
+            "route": "297",
+            "stop_sequence": 3,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "PO LAM",
+            "dest_tc": "寶林",
+            "dest_sc": "宝林",
+            "company": "KMB"
+        },
+        {
+            "route": "15X",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "LAM TIN (KWONG TIN ESTATE)",
+            "dest_tc": "藍田(廣田邨)",
+            "dest_sc": "蓝田(广田邨)",
+            "company": "KMB"
+        },
+        {
+            "route": "796X",
+            "stop_sequence": 5,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "Tseung Kwan O Industrial Estate / Tseung Kwan O Station",
+            "dest_tc": "將軍澳工業邨／將軍澳站",
+            "dest_sc": "将军澳工业邨／将军澳站",
+            "company": "CTB"
+        },
+        {
+            "route": "A20",
+            "stop_sequence": 2,
+            "stop_position": "West",
+            "bound": "O",
+            "dest_en": "Airport",
+            "dest_tc": "機場",
+            "dest_sc": "机场",
+            "company": "CTB"
+        },
+        {
+            "route": "NA20",
+            "stop_sequence": 23,
+            "stop_position": "West",
+            "bound": "I",
+            "dest_en": "Whampoa Garden",
+            "dest_tc": "黃埔花園",
+            "dest_sc": "黄埔花园",
+            "company": "CTB"
+        }
+    ]
+}

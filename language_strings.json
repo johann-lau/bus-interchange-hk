@@ -1,0 +1,49 @@
+{
+    "en":
+    {
+        "TREEVIEW_ROUTE": "Route",
+        "TREEVIEW_STOP_SEQUENCE": "Stop Sequence",
+        "TREEVIEW_STOP_POSITION": "Stop Position",
+        "TREEVIEW_DEST_EN": "Destination",
+        "TREEVIEW_COMPANY": "Route Operator(s)",
+        "TREEVIEW_ETA": "Estimated Time of Arrival",
+
+        "BUTTON_UPDATE_ETA": "Update ETA",
+        "BUTTON_UPDATE_DEST": "Update Destinations",
+
+        "NO_DEPARTURE": "No departures at this moment",
+        "SPECIAL_SERVICE": "Special Departure - Service Type",
+
+        "KMB_SHORT": "KMB",
+        "CTB_SHORT": "CTB",
+        "REMARK": "I: ",
+
+        "KMB": "KMB",
+        "CTB": "Citybus",
+        "JOINT": "Joint (KMB & CTB)"
+    },
+
+    "tc":
+    {
+        "TREEVIEW_ROUTE": "路線",
+        "TREEVIEW_STOP_SEQUENCE": "車站序號",
+        "TREEVIEW_STOP_POSITION": "車站位置",
+        "TREEVIEW_DEST_TC": "目的地",
+        "TREEVIEW_COMPANY": "路線營辦商",
+        "TREEVIEW_ETA": "預計到站時間",
+
+        "BUTTON_UPDATE_ETA": "更新到站時間",
+        "BUTTON_UPDATE_DEST": "更新路線目的地及營辦商",
+
+        "NO_DEPARTURE": "暫時沒有班次",
+        "SPECIAL_SERVICE": "特別班次 - 服務種類",
+
+        "KMB_SHORT": "九",
+        "CTB_SHORT": "城",
+        "REMARK": "註: ",
+
+        "KMB": "九巴",
+        "CTB": "城巴",
+        "JOINT": "九巴城巴聯營"
+    }
+}

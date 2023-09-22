@@ -1,0 +1,38 @@
+{
+    "KCF": {
+        "name_en": "Kowloon City Ferry (→ Cheung Sha Wan/Kwun Tong/NT/HKI West)",
+        "name_sc": "九龙城码头（往长沙湾/观塘/新界/港岛西）",
+        "name_tc": "九龍城碼頭（往長沙灣/觀塘/新界/港島西）",
+        "stops": {
+            "KMB": [
+                ["N/A", "6098480103C44C62"],
+                ["N/A", "8EA2D34406C216D3"],
+                ["N/A", "9F4A6557F20F676D"],
+                ["N/A", "A92AD89F447B3339"],
+                ["N/A", "C3427DE8E291FFA6"],
+                ["N/A", "CCD8857C4DC718BF"],
+                ["N/A", "E6DCDD4CCE10E4B7"]
+            ],
+            
+            "CTB": [
+                ["N/A", "003026"]
+            ]
+        }
+    },
+
+    "GW": {
+        "name_en": "Grand Waterfront (Southbound → Hung Hom/Tsim Sha Tsui/HKI East)",
+        "name_sc": "翔龙湾（南行 往红磡/尖沙咀/港岛东）",
+        "name_tc": "翔龍灣（南行 往紅磡/尖沙咀/港島東）",
+        "stops": {
+            "KMB": [
+                ["N/A", "5396072459507B7F"]
+            ],
+            
+            "CTB": [
+                ["N/A", "001811"]
+            ]
+        }
+    }
+}
+

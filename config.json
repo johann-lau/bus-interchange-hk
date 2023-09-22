@@ -1,0 +1,32 @@
+{
+    "info1": "Welcome to Bus-Interchanges-HK! This is a configuration file that allows you to customize the behaviour of the program.",
+    "info2": "歡迎使用 Bus-Interchanges-HK! 本檔案能讓您調教本程式的各種設定。",
+
+    "settings": {
+        "language": "tc",
+        "language_help1": "Either en (English) or tc (Traditional Chinese). Simplified Chinese is not supported now.",
+        "language_help2": "以上欄位需填入 en (英文）或 tc （繁體中文）。本程式暫時並不支援簡體中文。",
+
+        "interchanges_path": "interchanges_william.json",
+        "interchanges_path_help1": "The filename of the interchanges file. Must be a JSON file in this folder.",
+        "interchanges_path_help2": "The program will display routes of all interchanges listed in this file.",
+        "interchanges_path_help3": "E.g. myroutes.json",
+        "interchanges_path_help4": "Default value is interchanges_crosshb.json which lists the three cross-harbour tunnels.",
+        "interchanges_path_help5": "以上欄位需填入轉車站檔案的檔案名稱。此檔案必須是位於這個資料夾的 JSON 文件。",
+        "interchanges_path_help6": "此程式運作時，將顯示這些轉車站的巴士路線。",
+        "interchanges_path_help7": "例子為 myroutes.json",
+        "interchanges_path_help8": "預設為 interchanges_crosshb.json ，即三條過海隧道的資料。",
+
+        "kmb_endpoint": "https://data.etabus.gov.hk/v1/transport/kmb",
+        "kmb_endpoint_help1": "API Base URL for the KMB API. You usually don't need to change this.",
+
+        "ctb_endpoint": "https://rt.data.gov.hk/v2/transport/citybus",
+        "ctb_endpoint_help1": "API Base URL for the Citybus API. You usually don't need to change this.",
+
+        "ctb_batch_route_endpoint": "https://rt.data.gov.hk/v1.1/transport/batch",
+        "ctb_batch_route_endpoint_help1": "API Base URL for the Citybus batch route API. You usually don't need to change this.",
+
+        "ctb_batch_eta_endpoint": "https://rt.data.gov.hk/v1/transport/batch",
+        "ctb_batch_eta_endpoint_help1": "API Base URL for the Citybus batch ETA API. You usually don't need to change this."
+    }
+}

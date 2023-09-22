@@ -1,0 +1,91 @@
+{
+    "CHT_S": {
+        "name_en": "Cross Harbour Tunnel Southbound → HKI",
+        "name_sc": "",
+        "name_tc": "紅磡海底隧道 南行（往港島）",
+        "stops": {
+            "KMB": [
+                ["A1", "5029C93BB80545B1"],
+                ["A2", "E3825DF066FCABC4"],
+                ["A3", "032C7D86DF9ED3AC"],
+                ["A4", "4D3CBBDB95447F2E"],
+                ["A5", "C564EDC91AFD7D04"],
+                ["A6", "06C9926B2E2B304F"],
+                ["A7", "6418176FB389E363"],
+                ["B1", "6DD60A482B4CDAF6"],
+                ["B2", "6EDDBD4E965874D7"]
+            ],
+            
+            "CTB": [
+                ["A1", "002998"],
+                ["A2-A7", "001476"],
+                ["B1/B2", "001537"]
+            ]
+        }
+    },
+
+    "CHT_N": {
+        "name_en": "Cross Harbour Tunnel Northbound → KLN/NT",
+        "name_sc": "",
+        "name_tc": "紅磡海底隧道 北行（往九龍/新界）",
+        "stops": {
+            "KMB": [
+                ["C1", "153D32217234A0F0"],
+                ["C2", "11B2034DDF30617A"],
+                ["C3", "79AFB35F9DBD485A"]
+            ],
+            
+            "CTB": [
+                ["N/A", "001475"]
+            ]
+        }
+    },
+
+    "WHC_S": {
+        "name_en": "Western Harbour Crossing Southbound → HKI",
+        "name_sc": "",
+        "name_tc": "西區海底隧道 南行（往港島）",
+        "stops": {
+            "KMB": [
+                ["A1", "72F743E4D464E498"],
+                ["A2", "466111DE1A3E4656"],
+                ["A3", "E18D73287340B634"],
+                ["A4", "0F5CEC693FD6EB66"]
+            ],
+            
+            "CTB": [
+                ["N/A", "001629"]
+            ]
+        }
+    },
+
+    "WHC_N": {
+        "name_en": "Western Harbour Crossing Northbound → KLN/NT",
+        "name_sc": "",
+        "name_tc": "西區海底隧道 北行（往九龍/新界）",
+        "stops": {
+            "KMB": [
+                ["B1", "AD97EA183A25102C"],
+                ["B2", "3CA62A3B1C8415D0"],
+                ["B3", "7C99CFD0D8908BE7"],
+                ["B4", "DEBD2B9A856C0B1F"]
+            ], "CTB": [
+                ["N/A", "001628"]
+            ]
+        }
+    },
+
+    "EHC_S": {
+        "name_en": "Eastern Harbour Crossing Southbound → HKI",
+        "name_sc": "",
+        "name_tc": "東區海底隧道 南行（往港島）",
+        "stops": {"KMB": [], "CTB": []}
+    },
+
+    "EHC_N": {
+        "name_en": "Eastern Harbour Crossing Northbound → KLN/NT",
+        "name_sc": "",
+        "name_tc": "東區海底隧道 北行（往九龍/新界）",
+        "stops": {"KMB": [], "CTB": []}
+    }
+}
